@@ -1,3 +1,4 @@
 data
 etl-env
 etl-venv
+.env
